@@ -32,7 +32,7 @@ import (
 	"errors"
 	"hash"
 	"io"
-	"github.com/nise-nabe/v2/mgo/bson"
+	"github.com/nise-nabe/mgo/bson"
 	"os"
 	"sync"
 	"time"
